@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: linear-gradient(to right, pink, orange, yellow, violet,gray, pink, purple);
+}
+
+h1 {
+    text-align: center;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+img:hover {
+    transform: scale(1.1);
+}
+
+.btn {
+    padding: 5px;
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background-color: rgb(165, 144, 42);
+    
+}
+
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.Review {
+    text-align: center;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+footer {
+    text-align: left;
+    font-size: .7em;
+}
