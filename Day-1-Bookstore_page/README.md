@@ -2,7 +2,7 @@
 
 A simple one-page bookstore website showcasing a list of books with a clean and modern UI.
 
-## 🖼️ Screenshot  
+## 🖼️ Day 1 project Screenshot  
 ![Bookstore Screenshot](https://i.postimg.cc/SN0TPFM5/Screenshot-2025-11-12-032858.png)
 
 ## 🚀 Features
