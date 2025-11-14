@@ -6,3 +6,5 @@ i coded a simple html and css bookstore page.
 ### screenshot of day 1 project
 ![Bookstore Screenshot](https://i.postimg.cc/SN0TPFM5/Screenshot-2025-11-12-032858.png)
 
+## Day 2 📸 Screenshot 
+[![Screenshot-2025-11-14-215340.png](https://i.postimg.cc/vHDp8VZ0/Screenshot-2025-11-14-215340.png)](https://postimg.cc/tYQr27P6)
