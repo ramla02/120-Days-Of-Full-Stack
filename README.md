@@ -13,3 +13,8 @@ Simple sidebar navigation menu
 ## Day 3 and 4 📸 Screenshot
 This one was a bit challenging it took me 2 two days to complete it.
 [![Screenshot-2025-11-17-231946.png](https://i.postimg.cc/LX1Vz0Lz/Screenshot-2025-11-17-231946.png)](https://postimg.cc/vgG9yhPB)
+
+## Day 5 📸 Screenshot
+A feature selection page where each option includes a styled checkbox, custom colors, and hover effects.
+[![Screenshot-2025-11-20-121548.png](https://i.postimg.cc/SK1wSDFN/Screenshot-2025-11-20-121548.png)](https://postimg.cc/NyTNb8jW)
+
