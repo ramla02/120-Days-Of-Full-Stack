@@ -18,3 +18,5 @@ This one was a bit challenging it took me 2 two days to complete it.
 A feature selection page where each option includes a styled checkbox, custom colors, and hover effects.
 [![Screenshot-2025-11-20-121548.png](https://i.postimg.cc/SK1wSDFN/Screenshot-2025-11-20-121548.png)](https://postimg.cc/NyTNb8jW)
 
+## Day 6 📸 Screenshot
+[![Screenshot-2025-11-20-154658.png](https://i.postimg.cc/L57j8Trg/Screenshot-2025-11-20-154658.png)](https://postimg.cc/fScVHxWM)
