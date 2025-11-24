@@ -24,3 +24,7 @@ A feature selection page where each option includes a styled checkbox, custom co
 ## Day 7 📸 Screenshot
 A pale blue semi-transparent email box sits at the center of the screen. Inside it, blurred names hide sensitive details.
 [![Screenshot-2025-11-24-121402.png](https://i.postimg.cc/FKT2cf4F/Screenshot-2025-11-24-121402.png)](https://postimg.cc/JyB6Cz0S)
+
+## Day 8 📸 Screenshot
+This project looked simple on the surface, but it taught me to think more carefully about layout and consistency.
+[![Screenshot-2025-11-24-161506.png](https://i.postimg.cc/Wz9wmbcD/Screenshot-2025-11-24-161506.png)](https://postimg.cc/7J2zw46D)[![Screenshot-2025-11-24-161527.png](https://i.postimg.cc/yNqXybtX/Screenshot-2025-11-24-161527.png)](https://postimg.cc/9Dp7WJWr)
