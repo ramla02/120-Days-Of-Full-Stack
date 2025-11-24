@@ -20,3 +20,7 @@ A feature selection page where each option includes a styled checkbox, custom co
 
 ## Day 6 📸 Screenshot
 [![Screenshot-2025-11-20-154658.png](https://i.postimg.cc/L57j8Trg/Screenshot-2025-11-20-154658.png)](https://postimg.cc/fScVHxWM)
+
+## Day 7 📸 Screenshot
+A pale blue semi-transparent email box sits at the center of the screen. Inside it, blurred names hide sensitive details.
+[![Screenshot-2025-11-24-121402.png](https://i.postimg.cc/FKT2cf4F/Screenshot-2025-11-24-121402.png)](https://postimg.cc/JyB6Cz0S)
